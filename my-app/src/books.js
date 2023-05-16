@@ -2,12 +2,12 @@ export const books = [
     {
         id: 1,
         author: 'Lucinda Riley',
-        title: 'Atlas: The Story of Pa Salt: The epic conclusion to the Seven Sisters series',
+        title: 'Atlas',
         img: 'https://images-eu.ssl-images-amazon.com/images/I/81iw2hmh35L._AC_UL900_SR900,600_.jpg',
     },
     {
         author: 'Jessie Inchauspé',
-        title: 'The Glucose Goddess Method: Your four-week guide to cutting cravings, getting your energy back, and feeling amazing. With 100+ super easy recipes',
+        title: 'The Glucose Goddess Method',
         img: 'https://images-eu.ssl-images-amazon.com/images/I/81dL+4lDWzL._AC_UL900_SR900,600_.jpg',
         id: 2,
     },
@@ -28,5 +28,11 @@ export const books = [
         author: 'Nathan Anthony',
         title: 'Bored of Lunch: The Healthy Air Fryer Book',
         img: 'https://images-eu.ssl-images-amazon.com/images/I/61e1n99gzqL._AC_UL900_SR900,600_.jpg',
-    }
+    },
+    {
+        id: 6,
+        author: 'Davina McCall',
+        title: 'Menopausing',
+        img: 'https://images-eu.ssl-images-amazon.com/images/I/71zqiaekbRL._AC_UL900_SR900,600_.jpg',
+    },
 ]
